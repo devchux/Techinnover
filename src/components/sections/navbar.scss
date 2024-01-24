@@ -1,0 +1,25 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 3.75rem;
+
+  a {
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  div {
+    &:nth-of-type(2) {
+      display: flex;
+      gap: 6.69rem;
+    }
+
+    &:nth-of-type(3) {
+      display: flex;
+      gap: 1rem;
+    }
+  }
+}
