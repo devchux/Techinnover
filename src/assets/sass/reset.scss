@@ -142,7 +142,9 @@ a {
 }
 
 html {
-  font-size: calc(100vw * 16 / 1440);
+  @media only screen and (max-width: 1440px) {
+    font-size: calc(100vw * 16 / 1440);
+  }
 }
 
 body {
