@@ -12,6 +12,17 @@ nav {
   }
 
   div {
+    &:nth-of-type(1) {
+      width: 100%;
+      max-width: 12.9375rem;
+    
+      > h5 {
+        color: #e1f16b;
+        font-size: 1.3125rem;
+        font-weight: 700;
+        letter-spacing: 0.15094rem;
+      }
+    }
     &:nth-of-type(2) {
       display: flex;
       gap: 6.69rem;
