@@ -35,6 +35,17 @@
         max-width: 31.6875rem;
       }
 
+      a {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+      
+        img {
+          width: 1.5rem;
+          height: 1.5rem;
+        }
+      }
+
       > div {
         display: flex;
         flex-direction: column;

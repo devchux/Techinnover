@@ -22,7 +22,9 @@ const Moves = () => {
             template.
           </p>
         </div>
-        <Link to="/">Try it now</Link>
+        <Link to="/">
+          Try it now <img src="/svgs/right-arrow-black.svg" alt="" />
+        </Link>
       </div>
       <div>
         <div>

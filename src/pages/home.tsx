@@ -1,4 +1,5 @@
 import Career from "../components/sections/career";
+import Footer from "../components/sections/footer";
 import Header from "../components/sections/header";
 import Moves from "../components/sections/moves";
 import Navbar from "../components/sections/navbar";
@@ -14,6 +15,7 @@ function Home() {
       <Moves />
       <Tems />
       <Partners />
+      <Footer />
     </main>
   );
 }

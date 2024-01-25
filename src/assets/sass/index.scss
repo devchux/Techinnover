@@ -110,5 +110,335 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    src: url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFBoldItalic.woff2') format('woff2'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFBoldItalic.woff') format('woff'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    src: url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFBoldRegular.woff2') format('woff2'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFBoldRegular.woff') format('woff'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFBoldRegular.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    src: url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFMediumRegular.woff2') format('woff2'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFMediumRegular.woff') format('woff'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFMediumRegular.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF Extra';
+    src: url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFExtraBoldRegular.woff2') format('woff2'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFExtraBoldRegular.woff') format('woff'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFExtraBoldRegular.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    src: url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFHeavyRegular.woff2') format('woff2'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFHeavyRegular.woff') format('woff'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFHeavyRegular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    src: url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFItalic.woff2') format('woff2'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFItalic.woff') format('woff'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    src: url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFRegular.woff2') format('woff2'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFRegular.woff') format('woff'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF Extra';
+    src: url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFExtraBoldItalic.woff2') format('woff2'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFExtraBoldItalic.woff') format('woff'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF Demi';
+    src: url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFDemiBoldItalic.woff2') format('woff2'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFDemiBoldItalic.woff') format('woff'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFDemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF Demi';
+    src: url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFDemiBoldRegular.woff2') format('woff2'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFDemiBoldRegular.woff') format('woff'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFDemiBoldRegular.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    src: url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFHeavyItalic.woff2') format('woff2'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFHeavyItalic.woff') format('woff'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFHeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Integral CF';
+    src: url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFMediumItalic.woff2') format('woff2'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFMediumItalic.woff') format('woff'),
+        url('/fonts/integral-cf/FONTSPRINGDEMO-IntegralCFMediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('/fonts/clash-display/false.woff2') format('woff2'),
+        url('/fonts/clash-display/false.woff') format('woff'),
+        url('/fonts/clash-display/false.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('/fonts/clash-display/false_1.woff2') format('woff2'),
+        url('/fonts/clash-display/false_1.woff') format('woff'),
+        url('/fonts/clash-display/false_1.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('/fonts/clash-display/ClashDisplay-Medium.woff2') format('woff2'),
+        url('/fonts/clash-display/ClashDisplay-Medium.woff') format('woff'),
+        url('/fonts/clash-display/ClashDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('/fonts/clash-display/false_2.woff2') format('woff2'),
+        url('/fonts/clash-display/false_2.woff') format('woff'),
+        url('/fonts/clash-display/false_2.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('/fonts/clash-display/false_3.woff2') format('woff2'),
+        url('/fonts/clash-display/false_3.woff') format('woff'),
+        url('/fonts/clash-display/false_3.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('/fonts/clash-display/ClashDisplay-Bold.woff2') format('woff2'),
+        url('/fonts/clash-display/ClashDisplay-Bold.woff') format('woff'),
+        url('/fonts/clash-display/ClashDisplay-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('/fonts/clash-display/false_4.woff2') format('woff2'),
+        url('/fonts/clash-display/false_4.woff') format('woff'),
+        url('/fonts/clash-display/false_4.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('/fonts/clash-display/ClashDisplay-Extralight.woff2') format('woff2'),
+        url('/fonts/clash-display/ClashDisplay-Extralight.woff') format('woff'),
+        url('/fonts/clash-display/ClashDisplay-Extralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('/fonts/clash-display/false_5.woff2') format('woff2'),
+        url('/fonts/clash-display/false_5.woff') format('woff'),
+        url('/fonts/clash-display/false_5.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('/fonts/clash-display/false_6.woff2') format('woff2'),
+        url('/fonts/clash-display/false_6.woff') format('woff'),
+        url('/fonts/clash-display/false_6.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('/fonts/clash-display/ClashDisplay-Light.woff2') format('woff2'),
+        url('/fonts/clash-display/ClashDisplay-Light.woff') format('woff'),
+        url('/fonts/clash-display/ClashDisplay-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('/fonts/clash-display/ClashDisplay-Semibold.woff2') format('woff2'),
+        url('/fonts/clash-display/ClashDisplay-Semibold.woff') format('woff'),
+        url('/fonts/clash-display/ClashDisplay-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display Variable';
+    src: url('/fonts/clash-display/ClashDisplayVariable-Bold.woff2') format('woff2'),
+        url('/fonts/clash-display/ClashDisplayVariable-Bold.woff') format('woff'),
+        url('/fonts/clash-display/ClashDisplayVariable-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display Variable';
+    src: url('/fonts/clash-display/ClashDisplayVariable-Bold_1.woff2') format('woff2'),
+        url('/fonts/clash-display/ClashDisplayVariable-Bold_1.woff') format('woff'),
+        url('/fonts/clash-display/ClashDisplayVariable-Bold_1.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('/fonts/clash-display/false_7.woff2') format('woff2'),
+        url('/fonts/clash-display/false_7.woff') format('woff'),
+        url('/fonts/clash-display/false_7.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('/fonts/clash-display/false_8.woff2') format('woff2'),
+        url('/fonts/clash-display/false_8.woff') format('woff'),
+        url('/fonts/clash-display/false_8.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('/fonts/clash-display/false_9.woff2') format('woff2'),
+        url('/fonts/clash-display/false_9.woff') format('woff'),
+        url('/fonts/clash-display/false_9.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('/fonts/clash-display/ClashDisplay-Regular.woff2') format('woff2'),
+        url('/fonts/clash-display/ClashDisplay-Regular.woff') format('woff'),
+        url('/fonts/clash-display/ClashDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display Variable';
+    src: url('/fonts/clash-display/ClashDisplayVariable-Bold_2.woff2') format('woff2'),
+        url('/fonts/clash-display/ClashDisplayVariable-Bold_2.woff') format('woff'),
+        url('/fonts/clash-display/ClashDisplayVariable-Bold_2.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'false';
+    src: url('/fonts/clash-display/false_10.woff2') format('woff2'),
+        url('/fonts/clash-display/false_10.woff') format('woff'),
+        url('/fonts/clash-display/false_10.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clash Display';
+    src: url('/fonts/clash-display/false_11.woff2') format('woff2'),
+        url('/fonts/clash-display/false_11.woff') format('woff'),
+        url('/fonts/clash-display/false_11.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
 @import "./colors.scss";
 @import "./reset.scss";

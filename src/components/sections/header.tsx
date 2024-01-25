@@ -12,7 +12,7 @@ const Header = () => {
           Figma files can also be downloaded from our store. These files include
           the latest Figma features and are
         </p>
-        <Link to="/">Try it now</Link>
+        <Link to="/">Try it now <img src="/svgs/right-arrow-yellow.svg" alt="" /></Link>
       </div>
       <div className="image image-1">
         <img src="/images/header-1.png" />
